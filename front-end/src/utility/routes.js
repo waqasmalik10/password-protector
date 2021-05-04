@@ -1,0 +1,10 @@
+export const INDEX = '/';
+export const DASHBOARD = '/dashboard';
+export const LOGIN = '/login';
+export const SIGNUP = '/signup';
+export const CREDENTIALS = '/credentials';
+export const ADD_CREDENTIAL = '/credentials/add-credential';
+export const SHARE_CREDENTIAL = '/credentials/share-credential';
+export const TEAMS = '/teams';
+export const ADD_TEAM = '/teams/add-team';
+export const EDIT_PROFILE = '/edit-profile';
